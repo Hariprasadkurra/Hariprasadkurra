@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hari Lakshmi Prasad Kurra</h1>
 <h3 align="center">Passionate developer from India, curious about deep learning and its real-world applications.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/vibern0/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif">
 
 - 🌱 I’m currently learning **React**
 
