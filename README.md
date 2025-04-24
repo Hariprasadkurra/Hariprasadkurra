@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hari Lakshmi Prasad Kurra</h1>
 <h3 align="center">Passionate developer from India, curious about deep learning and its real-world applications.</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 - 🌱 I’m currently learning **React**
 
@@ -18,4 +19,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariprasadkurra&show_icons=true&locale=en&layout=compact" alt="hariprasadkurra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariprasadkurra&" alt="hariprasadkurra" /></p>
